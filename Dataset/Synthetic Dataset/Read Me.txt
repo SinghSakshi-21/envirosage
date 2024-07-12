@@ -1,0 +1,5 @@
+Below given Bin id represent specific Fullness Characteristic 
+Bin ID  Fullnes 
+15501- Low Fullness
+15502- Medium Fullness
+15503- Bell shaped Fullness
